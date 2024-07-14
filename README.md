@@ -1,1 +1,1 @@
-# softrware_highschool
+# software_highschool
